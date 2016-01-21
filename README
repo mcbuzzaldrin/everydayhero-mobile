@@ -1,15 +1,19 @@
-Welcome to your Appcelerator Titanium Mobile Project
+Sup guys.
 
-This is a blank project.  Start by editing your application's app.js to 
-make your first mobile project using Titanium.
-
-
+Some notes from the Scrum Master:
+ * When making changes please create a branch.
+ * When making major changes or fixes to a branch, create another branch.
+ * Read: http://nvie.com/posts/a-successful-git-branching-model/
+ * NEVER commit directly to master. Create a pull request for your branch.
+ * We will review PRs during our meetings and merge as necessary.
+ * We must communicate what parts of the code we are touching so we don't have a merging conflict from hell.
+ * Good luck.
 
 ----------------------------------
 Stuff our legal folk make us say:
 
-Appcelerator, Appcelerator Titanium and associated marks and logos are 
-trademarks of Appcelerator, Inc. 
+Appcelerator, Appcelerator Titanium and associated marks and logos are
+trademarks of Appcelerator, Inc.
 
 Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 
